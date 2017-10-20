@@ -10,6 +10,10 @@ public class CodEj {
         System.out.println("Laura, miras demasiado los Simpson, esto no puede ser ehh, te voy a poner el control parental");
         
        System.out.println("Laura tendrás que llevarme a cenar primero *guiño guiño*");
-    }
-    
+   
+        System.out.println("Laura, miras demasiado los Simpson, esto no puede "
+                + "ser ehh, te voy a poner el control parental");
+         System.out.println("sombra aqui y sombra alla maquillate maquillate "
+                 + "un espejo de cristal y mirate y mirate ");
+   }
 }
