@@ -7,6 +7,5 @@ public class CodEj {
                 + "muelles que el retrete se ha tragao");
         System.out.println("Laura, miras demasiado los Simpson, esto no puede "
                 + "ser ehh, te voy a poner el control parental");
-    }
-    
+    }   
 }
